@@ -1,4 +1,4 @@
-# Go_RestAPIPostGres
+# Go_RestAPIPostGres_Unoptimized
 Followed Tutorial By TutorialEdge
 
 Part 1
